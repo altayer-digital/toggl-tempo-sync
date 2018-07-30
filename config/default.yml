@@ -1,0 +1,13 @@
+togglBaseURL: 'https://www.toggl.com/api/v8/'
+
+togglAPIToken: ''
+
+tempoAPIToken: ''
+
+tempoBaseURL: 'https://api.tempo.io/2/'
+
+tempoUserName: ''
+
+tagIssueMapping:
+  - tag: ''
+    issueKey: ''

@@ -1,0 +1,9 @@
+.DS_Store
+.history/
+__coverage__/
+build/
+cache/
+node_modules/
+config/user.yml
+notes
+size-report.html
